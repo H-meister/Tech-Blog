@@ -1,5 +1,5 @@
 
-   # Just_tech_News
+   # Tech_blog!
    ## Table of Contents
    * [📚Description](#Description)
    * [🔑Installation](#Installation)
